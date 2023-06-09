@@ -1,4 +1,4 @@
-# `🌀𝐇𝐀𝐓𝐒𝐔𝐍𝐄 𝐌𝐈𝐊𝐔-𝐁𝐎𝐓⛄`
+# `★彡[Hizkia Bot]彡★`
 
 ### `🏓DUDAS SOBRE EL BOT?, CONTACTANOS🍁`
 <a href="http://wa.me/5212411719888" target="blank"><img src="https://img.shields.io/badge/OFC-YOVANI_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -97,40 +97,4 @@ npm start
 ```
 
 ### `—◉ 👽 OBTENER OTRO CODIGO QR EN TERMUX 👽`
- DETENER EL BOT DANDO CLICK EN EL SIMBOLO CTROL EN TERMUX MAS LA LETRA Z EN SU TECLADO MOVIL HASTA QUE SALGA ALGO EN VERDE SIMILAR A HADES-BOT-MD $`
-
-### `ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:`
-
-```bash
-> cd HATSUNE-MIKU
-```
-
-```bash
-> rm -rf session.data.json
-```
-
-```bash
-> npm start
-```
-
-### `—◉ 🔥 ACTIVAR EN BOXMINEHOST 🔥`
-<a href="https://boxmineworld.com"><img src="https://raw.githubusercontent.com/OFC-YOVANI/HATSUNE-MIKU/master/src/Pre%20Bot%20Publi.png" width="450" height="240" alt="JPG"/></a>
-- Pagina Oficial: [https://boxmineworld.com](https://boxmineworld.com)
-- Dashboard: [https://dash.boxmineworld.com](https://dash.boxmineworld.com)
-- Panel: [https://panel.boxmineworld.com](https://panel.boxmineworld.com)
-- Tutorial: [https://youtu.be/eC9TfKICpcY](https://youtu.be/Gn-ESCcdFGw)
-- Dudas UNICAMENTE SOBRE EL HOST: [https://discord.gg/84qsr4v](https://discord.gg/84qsr4v) (Preguntar por Vicemi)
-
-### `—◉ 📝 NOTAS 📝`
-- ES POSIBLE QUE EL BOT TENGA ALGUNAS FALLAS, SE IRAN SOLUCIONANDO CONFORME SE VAYAN DETECTANDO
-- SI VAS A EDITAR POR COMPLETO DEJA LOS CREDITOS DEL BOT 
-- EL BOT ES COMPARTIBLE CON WHATSAPP NORMAL O BUSINESS
-- ATENTO A LAS ACTUALIZACIONES QUE SE HAGAN EN ESTE REPOSITORIO
-- EL ADD Y EL KICK PUEDEN OCASIONAR QUE EL NUMERO SE VAYA A SOPORTE POR ELLO SE ACTIVA CON #enable restrict 
-- HATSUNE-MIKU - TEAM NO SE HACE RESPONSABLE DEL USO, NUMEROS, PRIVACIDAD Y CONTENIDO MANDADO, USADO O GESTIONADO POR USTEDES O EL BOT
-
-
-## `CREADO POR OFC-YOVANI` 
-<a href="https://github.com/OFC-YOVANI"><img src="https://i.imgur.com/i0hIhA0.jpg" width="250" height="250" alt="YOVANI"/></a>
-  
-`HATSUNE-MIKU - By YOVANI`
+ DETENER EL BOT DANDO CLICK EN EL SIMBOLO CTROL EN TERMUX MAS LA LETRA Z EN SU TECLADO MOVIL HASTA QUE SALGA ALGO EN VERDE SIMILAR 
